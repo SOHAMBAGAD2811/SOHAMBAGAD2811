@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soham Bagad</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Machine+Learning+Engineer;Linux+Based+Applicaations;Building+Real-World+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Machine+Learning+Engineer;Linux+Based+Applications;Building+Real-World+Systems" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Building a **Linux-based GPU & Fan Operations System**
+- 🔭 Building a **Linux-based Gaming Control Panel**
 - 🌱 Currently grinding **Data Structures & Algorithms**
 - 🤖 Strong interest in **Machine Learning Systems**
 - 🧠 I like **large-scale, real-world engineering problems**
